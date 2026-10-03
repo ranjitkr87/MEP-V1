@@ -1,0 +1,19 @@
+/* TEAM */
+  Chief MEP Infrastructure Engineer: Eng. Tariq Al-Mansoor, PE, ASHRAE Fellow
+  Lead Mechanical & District Cooling Specialist: Dr. Farhan Malik, CEng MCIBSE
+  Electrical HV/MV Project Director: Eng. Khaled Bin Salem, IEEE Senior Member
+  BIM LOD 400 Director: Sarah Jenkins, B.Arch, Autodesk Certified Professional
+  Testing, Adjusting & Balancing (TAB) Lead: Eng. Robert Chen, NEBB Certified Professional
+  Health & Safety Director (Zero-Harm): Faisal Al-Qasim, CMIOSH, ISO 45001 Auditor
+
+/* REGULATORY LICENSES */
+  License Number: LIC. #8849-DXB
+  Commercial Registration: CR #1048820
+  Civil Defense Accreditation: Class A MEP Contractor (Dubai, Abu Dhabi, Riyadh, Doha)
+  FIDIC Member Firm: Category 1 Infrastructure EPC
+
+/* SITE & ARCHITECTURE */
+  Standards: HTML5, CSS3, Tailwind CSS v4, React 19, TypeScript
+  Performance: Zero-CLS, Image Lazy Loading, Async Hydration, High-contrast Architectural Palette
+  Components: Schema.org JSON-LD, Microdata, WAI-ARIA 1.2 compliant
+  Location: Dubai (HQ), Riyadh, Doha

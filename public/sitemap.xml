@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tectonic-mep.com/</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/aida-public/AB6AXuAD_I8Pk5rGOM21LCxEF-Pe73SJzNWT42rTxNRZ0bEZw_h8yYfU7RBFZ-FR4bwTnFKXdDRYgWQvzBOqxGtCrb61AAG1KTuK6hNHxQCkUPZ5u-6XrJAMz7czDeUxAXj0Svv7nE04aaLAvRvrkEa1SISV5QmnbZY0pKk9wvvAuw0exUktP42fCjGVCfKTu5vVuKJ3J2STPiJshKdfu9yytmadxEvHHoUj3lhhTB0U9lWxrsMvSTe_sHhn</image:loc>
+      <image:title>Twin Commercial Towers Dubai MEP Substation</image:title>
+      <image:caption>Tectonic Turnkey MEP Infrastructure Dubai UAE</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tectonic-mep.com/#services</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tectonic-mep.com/#capabilities</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tectonic-mep.com/#industries</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tectonic-mep.com/#projects</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tectonic-mep.com/#insights</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tectonic-mep.com/#contact</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+# robots.txt for TECTONIC HVAC & MEP Engineering
+# Comprehensive crawler instructions for search engines and AI agents
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# AI and LLM Search Crawlers explicitly permitted for indexation
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Canonical Sitemap
+Sitemap: https://tectonic-mep.com/sitemap.xml
+Sitemap: https://ais-pre-xo4pbxoxrn35ryld5ydsww-264323641319.asia-southeast1.run.app/sitemap.xml
